@@ -7,7 +7,7 @@ Just another dropdown component, which is intended to be easy to use and bugfree
 ---------------
 ###npm
 ``` sh
-npm install vue-just-another-dropdown
+npm install --save vue-just-another-dropdown
 ```
 
 ## Usage
@@ -43,7 +43,7 @@ export default {
 
 ## Example
 ---------------
-I have created an [example](https://github.com/mimani/vue-just-another-dropdown/tree/master/example) express service (documentation [here](https://github.com/mimani/vue-just-another-dropdown/blob/master/example/README.md)), demonstrating this dropdown via simple vue webapp, checkout `example` directory in this repo.
+I have created an [example](https://github.com/mimani/vue-just-another-dropdown/tree/master/example) vue webapp (documentation [here](https://github.com/mimani/vue-just-another-dropdown/blob/master/example/just-another-vue-app/README.md)), demonstrating this dropdown via simple vue webapp, checkout `example` directory in this repo.
 
 
 ## TODOs
