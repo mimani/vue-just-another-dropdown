@@ -1,8 +1,8 @@
 {
   "name": "vue-just-another-dropdown",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just Another Dropdown for VueJs",
-  "main": "index.js",
+  "main": "Dropdown.vue",
   "scripts": {
     "test": "npm run unit"
   },
