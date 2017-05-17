@@ -4,7 +4,6 @@
   "description": "Just Another Dropdown for VueJs",
   "main": "Dropdown.vue",
   "scripts": {
-    "test": "npm run unit"
   },
   "repository": {
     "type": "git",
