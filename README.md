@@ -5,7 +5,7 @@ Just another dropdown component, which is intended to be easy to use and bugfree
 
 ## Installation
 ---------------
-###npm
+### npm
 ``` sh
 npm install --save vue-just-another-dropdown
 ```
