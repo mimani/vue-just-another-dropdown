@@ -13,7 +13,7 @@ npm install --save vue-just-another-dropdown
 ## Usage
 ---------------
 
-```javascript
+```vue
 <script>
 import vue from 'vue';
 import Dropdown from 'vue-just-another-dropdown';
@@ -31,9 +31,7 @@ export default {
   },
 };
 </script>
-```
 
-```HTML
 <template>
   <div class="hello">    
     <Dropdown :options="cities" v-model="city" placeholder="City" style="width: 30%"/>
